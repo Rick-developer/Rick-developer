@@ -112,7 +112,7 @@ I approach every system with four questions:
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gyan-pattnaik](https://www.linkedin.com/in/gyanapattnaik/"><img src="https://img.shields.io/badge/LinkedIn-Gyan_Pattnaik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/gyanapattnaik/"><img src="https://img.shields.io/badge/LinkedIn-Gyan_Pattnaik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
   <a href="https://github.com/Rick-developer"><img src="https://img.shields.io/badge/GitHub-Rick--developer-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 </p>
 
