@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Gyan%20Pattnaik&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Product%20Manager&descAlignY=58&descColor=8b949e&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Gyan%20Pattnaik&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Product%20Manager&descAlignY=58&descColor=8b949e&descSize=18&v=3" width="100%"/>
 </p>
 
 <p align="center">
@@ -166,12 +166,11 @@ I approach every system with four questions:
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rick-developer&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=8b949e&ring_color=58a6ff&cache_seconds=86400&rank_icon=github" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rick-developer&theme=github_dark" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick-developer&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8&cache_seconds=86400" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rick-developer&theme=github_dark" height="165"/>
 </p>
 
-<!-- FIX: Replaced streak-stats.demolab.com (unreliable) with the maintained Salesp07 fork -->
 <p align="center">
   <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=Rick-developer&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=a371f7&currStreakLabel=58a6ff&cache_seconds=86400" alt="GitHub Streak" />
 </p>
@@ -216,7 +215,7 @@ I approach every system with four questions:
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=100&section=footer&fontSize=14&fontColor=58a6ff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=100&section=footer&fontSize=14&fontColor=58a6ff&animation=fadeIn&v=3" width="100%"/>
 </p>
 
 <p align="center">
