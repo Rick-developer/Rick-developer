@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Gyan%20Pattnaik&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Product%20Manager&descAlignY=58&descColor=8b949e&descSize=18&v=3" width="100%"/>
+  <img src="assets/banner.png" width="100%" alt="Building Data Products that Drive Decisions Banner" />
 </p>
 
 <p align="center">
