@@ -166,13 +166,38 @@ I approach every system with four questions:
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rick-developer&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=8b949e&ring_color=58a6ff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rick-developer&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=8b949e&ring_color=58a6ff&cache_seconds=86400&rank_icon=github" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick-developer&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick-developer&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8&cache_seconds=86400" height="165"/>
 </p>
 
+<!-- FIX: Replaced streak-stats.demolab.com (unreliable) with the maintained Salesp07 fork -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rick-developer&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=a371f7&currStreakLabel=58a6ff" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=Rick-developer&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=a371f7&currStreakLabel=58a6ff&cache_seconds=86400" alt="GitHub Streak" />
+</p>
+
+<br/>
+
+---
+
+<h2 align="center">🏆 Trophies</h2>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rick-developer&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
+</p>
+
+<br/>
+
+---
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rick-developer&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=a371f7&hide_border=true&area=true&area_color=58a6ff" width="100%" alt="Contribution Graph"/>
 </p>
 
 <br/>
