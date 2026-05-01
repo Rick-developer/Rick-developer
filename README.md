@@ -79,28 +79,28 @@ I stopped waiting for a PM to answer those questions and started answering them 
 </td>
 <td width="33%" valign="top">
 
-### [🛍️ Recommendation Engine](https://github.com/Rick-developer/ai-recommendation-engine)
+### [🏛️ UAE Regulatory RAG Agent](https://github.com/Rick-developer/UAE-Regulatory-Compliance-RAG-Agent)
 
-![](https://img.shields.io/badge/Hit%20Rate%405-12.65%25%20(6x%20baseline)-58a6ff?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Safety-100%25%20Citation%20Verification-58a6ff?style=flat-square&labelColor=0d1117)
 
-**Problem:** Cold-start users get generic "most popular" carousels.
+**Problem:** Compliance officers spend hours cross-referencing dense UAE legal texts (CBUAE/VARA), risking AED 50M fines on LLM hallucinations.
 
-**Key Decision:** 70/30 personalization-exploration split using TF-IDF embeddings — not deep learning. Chose interpretability and shipping speed over marginal accuracy gains.
+**Key Decision:** Banned LLM self-confidence. Designed a fail-closed architecture where server-side composite scores reject weak context *before* generation.
 
-**Why it matters:** 12.65% Hit Rate@5 (6x over baseline). Demonstrates that the right heuristic beats a complex model when time-to-value is the constraint.
+**Why it matters:** 93.3% fact recall with 100% citation verification. Proves that in regulatory AI, safety and explicit refusal are features, not limitations.
 
 </td>
 <td width="33%" valign="top">
 
-### [🛡️ Data Quality System](https://github.com/Rick-developer/E-commerce-Data-Quality-System)
+### [💳 AI Payment Data Agent](https://github.com/Rick-developer/AI-Payment-Data-Quality-Agent)
 
-![](https://img.shields.io/badge/Coverage-35%20Unit%20Tests-a371f7?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Cost%20Opt-90%25%20Token%20Reduction-a371f7?style=flat-square&labelColor=0d1117)
 
-**Problem:** Marketing, Finance, and Growth all report different numbers from the same data.
+**Problem:** Deterministic data quality rules can't catch semantic anomalies (e.g., "Test Street" or suspicious merchant names) in card payment streams.
 
-**Key Decision:** Contract-first, not code-first. Defined 5 business events with unambiguous specifications before writing a single validation rule. Quarantine bad data — don't silently drop it.
+**Key Decision:** Don't use LLMs for everything. Built a hybrid routing engine where standard data passes through cheap deterministic checks, and only semantic edge-cases route to the LLM.
 
-**Why it matters:** Turns data quality from a recurring crisis into a managed process. 12 failure categories, 35 unit tests, zero external dependencies.
+**Why it matters:** Cuts LLM token costs by 90% while catching edge-case fraud and data drift that traditional hard-coded systems miss.
 
 </td>
 </tr>
